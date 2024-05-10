@@ -1,0 +1,3 @@
+﻿  sdl.cpp
+C:\Users\Admin\OneDrive\Documents\SDL_classwork\sdl.cpp(99,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDL_BaseProject.vcxproj -> C:\Users\Admin\OneDrive\Documents\SDL_classwork\x64\Debug\SDL_BaseProject.exe
